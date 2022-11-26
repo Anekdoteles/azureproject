@@ -1,0 +1,1 @@
+test if renaming of git account was successful
