@@ -1,1 +1,1 @@
-test if renaming of git account was successful
+This line was written in locally connected Azure CLI.
